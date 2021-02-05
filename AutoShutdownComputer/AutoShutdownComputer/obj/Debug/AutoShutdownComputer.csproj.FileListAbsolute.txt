@@ -1,0 +1,10 @@
+F:\Projects MSVS\AutoShutdownComputer\AutoShutdownComputer\bin\Debug\AutoShutdownComputer.exe
+F:\Projects MSVS\AutoShutdownComputer\AutoShutdownComputer\bin\Debug\AutoShutdownComputer.pdb
+F:\Projects MSVS\AutoShutdownComputer\AutoShutdownComputer\obj\Debug\AutoShutdownComputer.csprojAssemblyReference.cache
+F:\Projects MSVS\AutoShutdownComputer\AutoShutdownComputer\obj\Debug\AutoShutdownComputer.Form1.resources
+F:\Projects MSVS\AutoShutdownComputer\AutoShutdownComputer\obj\Debug\AutoShutdownComputer.Properties.Resources.resources
+F:\Projects MSVS\AutoShutdownComputer\AutoShutdownComputer\obj\Debug\AutoShutdownComputer.csproj.GenerateResource.cache
+F:\Projects MSVS\AutoShutdownComputer\AutoShutdownComputer\obj\Debug\AutoShutdownComputer.csproj.CoreCompileInputs.cache
+F:\Projects MSVS\AutoShutdownComputer\AutoShutdownComputer\obj\Debug\AutoShutdownComputer.exe
+F:\Projects MSVS\AutoShutdownComputer\AutoShutdownComputer\obj\Debug\AutoShutdownComputer.pdb
+F:\Projects MSVS\AutoShutdownComputer\AutoShutdownComputer\obj\Debug\AutoShutdownComputer.Form2.resources
